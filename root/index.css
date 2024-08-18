@@ -1,9 +1,9 @@
 
 
-
+/*
 @import url(/components/header.css);
 
-@import url(/components/main.css);
+@import url(/components/main.css);*/
 
 
 
@@ -25,5 +25,25 @@ body {
     display: block;
     overflow: scroll;
 }
+
+main {
+    width: 100vw;
+    display: block;
+    box-sizing: border-box;
+    margin: none;
+    
+}
+
+main.h40 {
+
+}
+
+main.h60 {
+    height: calc(100vh - 60px);
+    background-color: antiquewhite;
+    width: 100vw;
+    
+    
+}  
 
 
