@@ -1,9 +1,7 @@
 
+@import url(/root/header.css);
 
-/*
-@import url(/components/header.css);
-
-@import url(/components/main.css);*/
+@import url(/root/main.css);
 
 
 
