@@ -1,10 +1,10 @@
-
-
+/* Header */
 
 header {
     width: 100vw;
     display: block;
     box-sizing: border-box;
+    background-color: #fff;
 }
 
 header.h40 {
@@ -14,7 +14,7 @@ header.h40 {
 
 header.h60 {
     height: 60px;
-    padding: px;
+    padding: 5px;
 }
 
 
