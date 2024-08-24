@@ -1,16 +1,14 @@
 
 main {
     width: 100vw;
+    height: 100hv;
     display: block;
     box-sizing: border-box;
     margin: none;
-    
+    border: none;
 }
 
-main.h40 {
-
-}
-
+/*
 main.h60 {
     height: calc(100vh - 60px);
     background-color: antiquewhite;
@@ -18,3 +16,4 @@ main.h60 {
     
     
 }  
+*/
