@@ -1,9 +1,8 @@
+/* CSS library from GitHub */
 
 @import url(header.css);
 @import url(main.css);
 @import url(nav.css);
-
-/* CSS library from GitHub */
 
 body {
     margin: 0;
@@ -22,7 +21,4 @@ body {
     display: block;
     overflow: scroll;
 }
-
-
-
 
