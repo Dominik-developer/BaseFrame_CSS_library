@@ -5,8 +5,6 @@ main {
     height: 100hv;
     display: block;
     box-sizing: border-box;
-    margin: none;
-    border: none;
     background-color: #fff;
 }
 
