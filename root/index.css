@@ -32,9 +32,31 @@ main {
 }
 
 /* <header> */
+header {
+    width: 100vw;
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+}
 
+
+/* <nav> */
+nav { 
+  display: block;
+  box-sizing: border-box;
+  background-color: #fff;
+}
 
 
 /* <footer> */
+
+footer {
+    display: block;
+    box-sizing:border-box;
+    background-color: #fff;
+}
+
+
+
 
 
