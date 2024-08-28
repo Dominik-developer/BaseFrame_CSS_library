@@ -21,3 +21,20 @@ body {
     overflow: scroll;
 }
 
+
+/* <main>  */
+main {
+    width: 100vw;
+    height: 100hv;
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+/* <header> */
+
+
+
+/* <footer> */
+
+
