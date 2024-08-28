@@ -1,4 +1,4 @@
-# CSS_library Version V 0.1
+# CSS_library Version V 0.1.0 - development phaze 
 
 CSS libarary to help me build projects in school
 
