@@ -1,0 +1,9 @@
+/* Footer */
+
+footer {
+  display: block;
+  box-sizing: border-box;
+  background-color: #fff;
+
+  width: 100vw;
+}
