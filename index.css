@@ -1,6 +1,14 @@
 /* CSS library from GitHub */
 
+/*
+@import url(header.css);
+@import url(main.css);
+@import url(nav.css);
+@import url(footer.css);
+*/
+
 /* link to the ropository: https://github.com/Dominik-developer/css_library */
+
 
 
 body {
@@ -22,6 +30,7 @@ body {
 }
 
 
+
 /* <main>  */
 main {
     width: 100vw;
@@ -30,6 +39,7 @@ main {
     box-sizing: border-box;
     background-color: #fff;
 }
+
 
 /* <header> */
 header {
@@ -49,14 +59,10 @@ nav {
 
 
 /* <footer> */
-
 footer {
     display: block;
     box-sizing:border-box;
     background-color: #fff;
 }
-
-
-
 
 
