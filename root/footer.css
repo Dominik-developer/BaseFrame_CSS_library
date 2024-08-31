@@ -6,4 +6,31 @@ footer {
   background-color: #fff;
 
   width: 100vw;
+  /*margin: 20px;*/
+}
+
+/* responsiveness */
+
+/* Ekrany o szerokości up to 1200px :laptops */
+@media (max-width: 1200px) {
+  footer {
+      width: 90vw;
+      /*margin: 0 auto; */
+  }
+}
+
+/* screen width up to 768px : tablets */
+@media (max-width: 768px) {
+  footer {
+      width: 80vw; 
+      /*padding: 15px;*/
+  }
+}
+
+/* screen width up to 480px : smartphones */
+@media (max-width: 480px) {
+  footer {
+      width: 100vw; 
+      /*padding: 10px; */
+  }
 }
