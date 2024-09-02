@@ -1,18 +1,6 @@
 
 /* those styles only aply to example.html file in repository */
 
-header {
-    height: 5%;
-}
-
-nav {
-    height: 5%;
-    justify-content: center;
-}
-
-nav a {
-    font-weight: bold;
-}
 
 main {
     margin-left: 5%;
@@ -30,9 +18,8 @@ h1, h2 {
 section {
     width: 100%;
     padding: 5%;
+    box-sizing: border-box;
 }
 
-footer {
-    height: 5%;
-}
+
 
