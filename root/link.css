@@ -1,0 +1,24 @@
+/* Links */
+/* link to the ropository: https://github.com/Dominik-developer/css_library */
+
+
+/* basics of styling for links, will be improved */
+a {
+    color: #007BFF; 
+    text-decoration: none; 
+    font-weight: normal; 
+    transition: color 0.3s ease; 
+}
+
+a:hover {
+    color: #0056b3; 
+    text-decoration: underline; 
+}
+
+a:visited {
+    color: #551A8B;
+}
+
+a:active {
+    color: #FF0000; 
+}
