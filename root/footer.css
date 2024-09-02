@@ -11,7 +11,7 @@ footer {
 
 /* responsiveness */
 
-/* Ekrany o szerokości up to 1200px :laptops */
+/* screens width up to 1200px :laptops */
 @media (max-width: 1200px) {
   footer {
       width: 90vw;
@@ -19,7 +19,7 @@ footer {
   }
 }
 
-/* screen width up to 768px : tablets */
+/* screens width up to 768px : tablets */
 @media (max-width: 768px) {
   footer {
       width: 80vw; 
@@ -27,7 +27,7 @@ footer {
   }
 }
 
-/* screen width up to 480px : smartphones */
+/* screens width up to 480px : smartphones */
 @media (max-width: 480px) {
   footer {
       width: 100vw; 
