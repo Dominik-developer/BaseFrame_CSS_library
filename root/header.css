@@ -7,11 +7,6 @@ header {
     background-color: #fff;
 }
 
-header.h40 {
-    height: 40px;
-    padding: 5px;
-}
-
 header.h60 {
     height: 60px;
     padding: 5px;
