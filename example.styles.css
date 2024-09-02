@@ -1,0 +1,38 @@
+
+/* those styles only aply to example.html file in repository */
+
+header {
+    height: 5%;
+}
+
+nav {
+    height: 5%;
+    justify-content: center;
+}
+
+nav a {
+    font-weight: bold;
+}
+
+main {
+    margin-left: 5%;
+    margin-right: 5%;
+    background-color: lightgrey;
+    text-align: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+section {
+    width: 100%;
+    padding: 5%;
+}
+
+footer {
+    height: 5%;
+}
+
