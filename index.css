@@ -27,7 +27,7 @@ body {
     color: #333;
     cursor: default;
     display: block;
-    overflow: scroll;
+    /*overflow: hidden;*/
 }
 
 
