@@ -18,7 +18,7 @@ header.h60 {
 @media (max-width: 1200px) {
     footer {
         width: 90vw;
-        /*margin: 0 auto; */
+        margin: 0 auto; 
     }
   }
   
