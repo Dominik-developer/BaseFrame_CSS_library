@@ -2,47 +2,41 @@
 /* link to the ropository: https://github.com/Dominik-developer/css_library */
 
 main {
-    display: block;
-    box-sizing: border-box;
-    background-color: #fff;
-    width: 100vw;
-    height: 100vh;
+  display: block;
+  box-sizing: border-box;
+  background-color: #fff;
+  width: 100vw;
+  height: 100vh;
 
-    margin-left: 20px;
-    margin-right: 20px;
-  
-    padding: 5px;
+  margin-left: 20px;
+  margin-right: 20px;
+
+  /*padding: 5px;*/
 }
-
-/*
-main.h60 {
-    height: calc(100vh - 60px);
-}  
-*/
 
 
 /* responsiveness */
 
 /* screens width up to 1200px :laptops */
 @media (max-width: 1200px) {
-    footer {
-        width: 90vw;
-      /*  margin: 0 auto; */
-    }
+  main {
+    width: 90vw;
+    /*  margin: 0 auto; */
   }
+}
   
-  /* screens width up to 768px : tablets */
-  @media (max-width: 768px) {
-    footer {
-        width: 80vw; 
-        /*padding: 15px;*/
-    }
+/* screens width up to 768px : tablets */
+@media (max-width: 768px) {
+  main {
+    width: 80vw; 
+    padding: 15px;
   }
+}
   
-  /* screens width up to 480px : smartphones */
-  @media (max-width: 480px) {
-    footer {
-        width: 100vw; 
-        /*padding: 10px; */
-    }
+/* screens width up to 480px : smartphones */
+@media (max-width: 480px) {
+  main {
+    width: 100vw; 
+    padding: 10px; 
   }
+}
