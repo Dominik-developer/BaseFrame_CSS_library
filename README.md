@@ -1,5 +1,5 @@
 
-# CSS_library Version 0.1.0 development phaze
+# CSS_library Version 0.1.0
 
 CSS libarary to help build projects in school
 
