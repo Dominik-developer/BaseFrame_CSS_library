@@ -11,11 +11,11 @@ Documentation is still in development process. Will be released on September 30 
 
 Copy link below and past it in meta tag i your file to add the library to your project
 
-     <link rel="stylesheet" type="text/css" href="https://dominik-developer.github.io/css_library/index.css"> 
+     <link rel="stylesheet" type="text/css" href="https://dominik-developer.github.io/BaseFrame_CSS_library/index.css"> 
 
 You can also see example page taht use this library under this link:
 
-      https://dominik-developer.github.io/css_library/example.html
+      https://dominik-developer.github.io/BaseFrame_CSS_library/example.html
 
 ## Try it out and report all the issues that will appear!!
 
