@@ -1,11 +1,11 @@
 /* CSS library from GitHub */
 /* link to the ropository: https://github.com/Dominik-developer/css_library */
-
+/*
 @import url(header.css);
 @import url(main.css);
 @import url(nav.css);
 @import url(footer.css);
-
+*/
 @import url(links.css);
 @import url(center.css);
 
@@ -29,5 +29,122 @@ body {
     overflow: hidden;
 }
 
+/* test */
 
+header {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100vw;
+      
+    margin-left: 20px;
+    margin-right: 20px;
+    
+    /*padding: 5px;*/
+  }
+  
+  
+  /* responsiveness */
+  
+  /* scrrens up to 1200px :laptops */
+  @media (max-width: 1200px) {
+    header {
+      width: 90vw;
+      /* margin: 0 auto; */
+    }
+  }
+    
+  /* screens width up to 768px : tablets */
+  @media (max-width: 768px) {
+    header {
+      width: 80vw; 
+      padding: 15px;
+    }
+  }
+    
+  /* screens width up to 480px : smartphones */
+  @media (max-width: 480px) {
+    header {
+      width: 100vw; 
+      padding: 10px; 
+    }
+  }
 
+  main {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100vw;
+    height: 100vh;
+  
+    margin-left: 20px;
+    margin-right: 20px;
+  
+    /*padding: 5px;*/
+  }
+  
+  
+  /* responsiveness */
+  
+  /* screens width up to 1200px :laptops */
+  @media (max-width: 1200px) {
+    main {
+      width: 90vw;
+      /*  margin: 0 auto; */
+    }
+  }
+    
+  /* screens width up to 768px : tablets */
+  @media (max-width: 768px) {
+    main {
+      width: 80vw; 
+      padding: 15px;
+    }
+  }
+    
+  /* screens width up to 480px : smartphones */
+  @media (max-width: 480px) {
+    main {
+      width: 100vw; 
+      padding: 10px; 
+    }
+  }
+
+  footer {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100vw;
+  
+    margin-left: 20px;
+    margin-right: 20px;
+  
+    /*padding: 5px;*/
+  }
+  
+  
+  /* responsiveness */
+  
+  /* screens width up to 1200px :laptops */
+  @media (max-width: 1200px) {
+    footer {
+        width: 90vw;
+       /* margin: 0 auto; */
+    }
+  }
+  
+  /* screens width up to 768px : tablets */
+  @media (max-width: 768px) {
+    footer {
+        width: 80vw; 
+        padding: 15px;
+    }
+  }
+  
+  /* screens width up to 480px : smartphones */
+  @media (max-width: 480px) {
+    footer {
+        width: 100vw; 
+        padding: 10px; 
+    }
+  }
