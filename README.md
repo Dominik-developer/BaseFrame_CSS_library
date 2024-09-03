@@ -11,7 +11,7 @@ Copy link below and past it in meta tag i your file to add the library to your p
 
 You can also see example page taht use this library under this link:
 
-     <link rel="stylesheet" type="text/css" href="https://dominik-developer.github.io/css_library/example.html"> 
+      https://dominik-developer.github.io/css_library/example.html
 
 ## Try it out and report all the issues that will appear
 
