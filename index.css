@@ -1,14 +1,10 @@
 /* CSS library from GitHub */
 /* link to the ropository: https://github.com/Dominik-developer/css_library */
-/*
-@import url(header.css);
-@import url(main.css);
-@import url(nav.css);
-@import url(footer.css);
+
 
 @import url(links.css);
 @import url(center.css);
-*/
+
 /* Some features have just been introduced and may not work or cause problems. Any problems or bugs should be reported as soon as possible so that they can be fixed. You can report them by opening a new issue in the library repository. Link to the ropository: https://github.com/Dominik-developer/css_library */
 
 body {
@@ -26,7 +22,12 @@ body {
     color: #333;
     cursor: default;
     display: block;
-    overflow: hidden;
+    /*overflow: hidden;*/
+    
+    overflow-y: auto; 
+    overflow-x: hidden; 
+    
+    
 }
 
 /* test */
@@ -45,6 +46,15 @@ header {
   
   
   /* responsiveness */
+
+/* screens wider than 1200px */
+@media (min-width: 1201px) {
+    header {
+        width: 80vw; 
+        margin: 0 auto; 
+        padding: 20px; 
+    }
+}
   
   /* scrrens up to 1200px :laptops */
   @media (max-width: 1200px) {
@@ -86,6 +96,16 @@ header {
   
   /* responsiveness */
   
+
+/* screens wider than 1200px */
+@media (min-width: 1201px) {
+    main {
+        width: 80vw; 
+        margin: 0 auto; 
+        padding: 20px; 
+    }
+}
+
   /* screens width up to 1200px :laptops */
   @media (max-width: 1200px) {
     main {
@@ -125,6 +145,15 @@ header {
   
   /* responsiveness */
   
+/* screens wider than 1200px */
+@media (min-width: 1201px) {
+    footer {
+        width: 80vw; 
+        margin: 0 auto; 
+        padding: 20px; 
+    }
+}
+
   /* screens width up to 1200px :laptops */
   @media (max-width: 1200px) {
     footer {
