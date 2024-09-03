@@ -1,5 +1,5 @@
 
-# BaseFrame CSS library version: v0.1.0 pre-release
+# BaseFrame CSS library version: v1.0.0 first release
 
 BaseFrame is a simple CSS library created to help build projects in school.
 
