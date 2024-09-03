@@ -37,8 +37,8 @@ header {
     background-color: #fff;
     width: 100vw;
       
-    margin-left: 20px;
-    margin-right: 20px;
+    /*margin-left: 20px;
+    margin-right: 20px;*/
     
     /*padding: 5px;*/
   }
@@ -49,8 +49,8 @@ header {
   /* scrrens up to 1200px :laptops */
   @media (max-width: 1200px) {
     header {
-      width: 90vw;
-      /* margin: 0 auto; */
+        width: 90vw;
+        margin: 0 auto; 
     }
   }
     
@@ -77,8 +77,8 @@ header {
     width: 100vw;
     height: 100vh;
   
-    margin-left: 20px;
-    margin-right: 20px;
+    /*margin-left: 20px;
+    margin-right: 20px;*/
   
     /*padding: 5px;*/
   }
@@ -116,8 +116,8 @@ header {
     background-color: #fff;
     width: 100vw;
   
-    margin-left: 20px;
-    margin-right: 20px;
+    /*margin-left: 20px;
+    margin-right: 20px;*/
   
     /*padding: 5px;*/
   }
