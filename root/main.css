@@ -2,11 +2,16 @@
 /* link to the ropository: https://github.com/Dominik-developer/css_library */
 
 main {
-    width: 100vw;
-    height: 100hv;
     display: block;
     box-sizing: border-box;
     background-color: #fff;
+    width: 100vw;
+    height: 100vh;
+
+    margin-left: 20px;
+    margin-right: 20px;
+  
+    padding: 5px;
 }
 
 /*
@@ -22,7 +27,7 @@ main.h60 {
 @media (max-width: 1200px) {
     footer {
         width: 90vw;
-        /*margin: 0 auto; */
+      /*  margin: 0 auto; */
     }
   }
   
