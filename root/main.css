@@ -8,35 +8,37 @@ main {
   width: 100vw;
   height: 100vh;
 
-  margin-left: 20px;
-  margin-right: 20px;
+  /*margin-left: 20px;
+  margin-right: 20px;*/
 
   /*padding: 5px;*/
 }
 
+@media (min-width: 1201px) {
+  main {
+      width: 80vw; 
+      margin: 0 auto; 
+      padding: 20px; 
+  }
+}
 
-/* responsiveness */
-
-/* screens width up to 1200px :laptops */
 @media (max-width: 1200px) {
   main {
     width: 90vw;
-    /*  margin: 0 auto; */
+      margin: 0 auto; 
   }
 }
   
-/* screens width up to 768px : tablets */
 @media (max-width: 768px) {
   main {
-    width: 80vw; 
-    padding: 15px;
+    width: 90vw; 
+    padding: 10px;
   }
 }
   
-/* screens width up to 480px : smartphones */
 @media (max-width: 480px) {
   main {
-    width: 100vw; 
+    width: 90vw; 
     padding: 10px; 
   }
 }
