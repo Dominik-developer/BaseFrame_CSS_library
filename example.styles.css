@@ -3,8 +3,6 @@
 
 /*
 main {
-    margin-left: 5%;
-    margin-right: 5%;
     background-color: lightgrey;
     text-align: center;
     justify-content: center;
@@ -16,11 +14,5 @@ h1, h2 {
 }
 
 
-section {
-    width: 100%;
-    padding: 5%;
-    box-sizing: border-box;
-}
-*/
 
 
