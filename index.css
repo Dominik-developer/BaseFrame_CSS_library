@@ -34,7 +34,7 @@ header {
   
 @media (min-width: 1201px) {
     header {
-        width: 80vw; 
+        width: 90vw; 
         margin: 0 auto; 
         padding: 20px; 
     }
@@ -73,7 +73,7 @@ header {
   
 @media (min-width: 1201px) {
     main {
-        width: 80vw; 
+        width: 90vw; 
         margin: 0 auto; 
         padding: 20px; 
     }
@@ -111,7 +111,7 @@ header {
   
 @media (min-width: 1201px) {
     footer {
-        width: 80vw; 
+        width: 90vw; 
         margin: 0 auto; 
         padding: 20px; 
     }
