@@ -5,10 +5,10 @@
 @import url(main.css);
 @import url(nav.css);
 @import url(footer.css);
-*/
+
 @import url(links.css);
 @import url(center.css);
-
+*/
 /* Some features have just been introduced and may not work or cause problems. Any problems or bugs should be reported as soon as possible so that they can be fixed. You can report them by opening a new issue in the library repository. Link to the ropository: https://github.com/Dominik-developer/css_library */
 
 body {
@@ -57,15 +57,15 @@ header {
   /* screens width up to 768px : tablets */
   @media (max-width: 768px) {
     header {
-      width: 80vw; 
-      padding: 15px;
+      width: 90vw; 
+      padding: 10px;
     }
   }
     
   /* screens width up to 480px : smartphones */
   @media (max-width: 480px) {
     header {
-      width: 100vw; 
+      width: 90vw; 
       padding: 10px; 
     }
   }
@@ -90,22 +90,22 @@ header {
   @media (max-width: 1200px) {
     main {
       width: 90vw;
-      /*  margin: 0 auto; */
+        margin: 0 auto; 
     }
   }
     
   /* screens width up to 768px : tablets */
   @media (max-width: 768px) {
     main {
-      width: 80vw; 
-      padding: 15px;
+      width: 90vw; 
+      padding: 10px;
     }
   }
     
   /* screens width up to 480px : smartphones */
   @media (max-width: 480px) {
     main {
-      width: 100vw; 
+      width: 90vw; 
       padding: 10px; 
     }
   }
@@ -129,22 +129,22 @@ header {
   @media (max-width: 1200px) {
     footer {
         width: 90vw;
-       /* margin: 0 auto; */
+        margin: 0 auto; 
     }
   }
   
   /* screens width up to 768px : tablets */
   @media (max-width: 768px) {
     footer {
-        width: 80vw; 
-        padding: 15px;
+        width: 90vw; 
+        padding: 10px;
     }
   }
   
   /* screens width up to 480px : smartphones */
   @media (max-width: 480px) {
     footer {
-        width: 100vw; 
+        width: 90vw; 
         padding: 10px; 
     }
   }
