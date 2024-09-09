@@ -1,0 +1,95 @@
+
+/* HEADER */
+header {}
+  
+@media (min-width: 1201px) {
+    header {
+        width: 90vw;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    header {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 768px) {
+    header {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 480px) {
+    header {
+        width: 90vw; 
+        padding: 10px; 
+    }
+}
+
+
+/* MAIN */
+main {}
+  
+@media (min-width: 1201px) {
+    main {
+        width: 90vw;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    main {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 768px) {
+    main {
+      width: 90vw;
+      padding: 10px;
+    }
+}
+    
+@media (max-width: 480px) {
+    main {
+        width: 90vw;
+        padding: 10px; 
+    }
+}
+
+
+/* FOOTER */
+footer {}
+  
+@media (min-width: 1201px) {
+    footer {
+        width: 90vw; 
+        padding: 20px; 
+    }
+}
+
+@media (max-width: 1200px) {
+    footer {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    footer {
+        width: 90vw; 
+        padding: 10px
+    }
+}
+  
+  @media (max-width: 480px) {
+    footer {
+        width: 90vw; 
+        padding: 10px; 
+    }
+}
