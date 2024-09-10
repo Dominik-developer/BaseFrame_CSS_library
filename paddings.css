@@ -1,0 +1,95 @@
+
+/* HEADER */
+body.reader header {}
+  
+@media (min-width: 1201px) {
+    body.reader header {
+        width: 90vw;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    body.reader header {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 768px) {
+    body.reader header {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 480px) {
+    body.reader header {
+        width: 90vw; 
+        padding: 10px; 
+    }
+}
+
+
+/* MAIN */
+body.reader main {}
+  
+@media (min-width: 1201px) {
+    body.reader main {
+        width: 90vw;
+        padding: 20px;
+    }
+}
+
+@media (max-width: 1200px) {
+    body.reader main {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+    
+@media (max-width: 768px) {
+    body.reader main {
+      width: 90vw;
+      padding: 10px;
+    }
+}
+    
+@media (max-width: 480px) {
+    body.reader main {
+        width: 90vw;
+        padding: 10px; 
+    }
+}
+
+
+/* FOOTER */
+body.reader footer {}
+  
+@media (min-width: 1201px) {
+    body.reader footer {
+        width: 90vw; 
+        padding: 20px; 
+    }
+}
+
+@media (max-width: 1200px) {
+    body.reader footer {
+        width: 90vw;
+        padding: 10px;
+    }
+}
+
+@media (max-width: 768px) {
+    body.reader footer {
+        width: 90vw; 
+        padding: 10px
+    }
+}
+  
+  @media (max-width: 480px) {
+    body.reader footer {
+        width: 90vw; 
+        padding: 10px; 
+    }
+}
