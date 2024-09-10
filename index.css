@@ -30,6 +30,83 @@ header {
     box-sizing: border-box;
     background-color: #fff;
     width: 100vw;
+  }
+  
+@media (min-width: 1201px) {
+    header {
+        width: 90vw; 
+        margin: 0 auto; 
+        padding: 20px; 
+    }
+}
+
+  @media (max-width: 1200px) {
+    header {
+        width: 90vw;
+        margin: 0 auto; 
+    }
+  }
+    
+  @media (max-width: 768px) {
+    header {
+      width: 90vw; 
+      padding: 10px;
+    }
+  }
+    
+  @media (max-width: 480px) {
+    header {
+      width: 90vw; 
+      padding: 10px; 
+    }
+  }
+
+
+/* MAIN */
+  main {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100vw;
+    /*height: 100vh;*/
+  }
+  
+@media (min-width: 1201px) {
+    main {
+        width: 90vw; 
+        margin: 0 auto; 
+        padding: 20px; 
+    }
+}
+
+  @media (max-width: 1200px) {
+    main {
+      width: 90vw;
+        margin: 0 auto; 
+    }
+  }
+    
+  @media (max-width: 768px) {
+    main {
+      width: 90vw; 
+      padding: 10px;
+    }
+  }
+    
+  @media (max-width: 480px) {
+    main {
+      width: 90vw; 
+      padding: 10px; 
+    }
+  }
+
+
+/* FOOTER */
+  footer {
+    display: block;
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 100vw;
 }
   
 @media (min-width: 1201px) {
@@ -57,8 +134,22 @@ header {
     header {
         width: 100%;
         margin: 0 auto; 
+  }
+  
+@media (min-width: 1201px) {
+    footer {
+        width: 90vw; 
+        margin: 0 auto; 
+        padding: 20px; 
     }
 }
+
+  @media (max-width: 1200px) {
+    footer {
+        width: 90vw;
+        margin: 0 auto; 
+    }
+  }
 
 
 /* MAIN */
@@ -134,6 +225,20 @@ footer {
     }
 }
 
+  @media (max-width: 768px) {
+    footer {
+        width: 90vw; 
+        padding: 10px;
+    }
+  }
+  
+  @media (max-width: 480px) {
+    footer {
+        width: 90vw; 
+        padding: 10px; 
+    }
+  }
+  
   
 /* CENTERING ELEMENT CLASSES */
 .centerOutside {
