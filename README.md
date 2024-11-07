@@ -13,7 +13,7 @@ Copy link below and past it in meta tag i your file to add the library to your p
 
      <link rel="stylesheet" type="text/css" href="https://dominik-developer.github.io/BaseFrame_CSS_library/index.css"> 
      
-You can also see example html page that use this library under this <a href ="https://dominik-developer.github.io/BaseFrame_CSS_library/example.html" >LINK</a>
+<!--You can also see example html page that use this library under this <a href ="https://dominik-developer.github.io/BaseFrame_CSS_library/example.html" >LINK</a>-->
 
 ## Try it out, please report any the issues that you will find and any suggestions 
 
